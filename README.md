@@ -51,7 +51,7 @@
 - [Kalman filter](https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
 - [Behavior Trees explained using Pac-Man as an example](https://towardsdatascience.com/behavior-trees-with-automated-planning-capability-ad2a9ff9b28e)
 - [Behavior Trees](https://roboticseabass.com/2021/05/08/introduction-to-behavior-trees/)
-- [Behavior Prediction using Deep Learning](https://kargarisaac.medium.com/behavior-prediction-and-decision-making-in-self-driving-cars-using-deep-learning-784761ed34af)
+- [Motion Prediction using Deep Learning](https://kargarisaac.medium.com/behavior-prediction-and-decision-making-in-self-driving-cars-using-deep-learning-784761ed34af)
 
 ### Courses
 
